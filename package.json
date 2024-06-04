@@ -1,5 +1,5 @@
 {
-  "name": "cvui",
+  "name": "svui",
   "version": "0.0.1",
   "description": "A Svelte 5 UI Library",
   "main": "index.js",
